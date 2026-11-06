@@ -195,7 +195,7 @@ rintis-ai/
 
 2. **Jalankan Aplikasi via Docker Compose**:
    ```bash
-   docker-compose up --build
+   docker compose up --build
    ```
 
 3. **Akses Aplikasi**:
